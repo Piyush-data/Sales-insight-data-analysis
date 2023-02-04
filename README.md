@@ -2,7 +2,9 @@
 Project for real life use case of predicting sales insights for a hardware supplier company.
 # Tools : <br />
 Excel , MySQL & Tableau <br />
- 
+ ![Screenshot (40)](https://user-images.githubusercontent.com/85888663/216770394-185f9219-210a-4c46-a858-8d508107544f.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/85888663/216770396-84597fa8-6ced-4535-96b9-f1f643af100e.png)
+
  # Works 
 Connected MySQL database to Tableau <br />
 Make Tableau relationship <br /> 
