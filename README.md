@@ -9,8 +9,8 @@ Excel , MySQL & Tableau <br />
 Connected MySQL database to Tableau <br />
 Make Tableau relationship <br /> 
 # calculated fields
-  IF[currency]=='USD' THEN [Sales Amount]*74 <br />
-  ELSE[Sales Amount] END <br/>
+ ` IF[currency]=='USD' THEN [Sales Amount]*74
+  ELSE[Sales Amount] END `
 ### Data Analysis Using SQL
 
 1. Show all customer records
